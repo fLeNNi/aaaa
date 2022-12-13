@@ -1,0 +1,15 @@
+C:\Users\enzoj\source\repos\Proyecto Diagramacion\Final2020\bin\Debug\net6.0\Final2020.exe
+C:\Users\enzoj\source\repos\Proyecto Diagramacion\Final2020\bin\Debug\net6.0\Final2020.deps.json
+C:\Users\enzoj\source\repos\Proyecto Diagramacion\Final2020\bin\Debug\net6.0\Final2020.runtimeconfig.json
+C:\Users\enzoj\source\repos\Proyecto Diagramacion\Final2020\bin\Debug\net6.0\Final2020.dll
+C:\Users\enzoj\source\repos\Proyecto Diagramacion\Final2020\bin\Debug\net6.0\Final2020.pdb
+C:\Users\enzoj\source\repos\Proyecto Diagramacion\Final2020\obj\Debug\net6.0\Final2020.csproj.AssemblyReference.cache
+C:\Users\enzoj\source\repos\Proyecto Diagramacion\Final2020\obj\Debug\net6.0\Final2020.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enzoj\source\repos\Proyecto Diagramacion\Final2020\obj\Debug\net6.0\Final2020.AssemblyInfoInputs.cache
+C:\Users\enzoj\source\repos\Proyecto Diagramacion\Final2020\obj\Debug\net6.0\Final2020.AssemblyInfo.cs
+C:\Users\enzoj\source\repos\Proyecto Diagramacion\Final2020\obj\Debug\net6.0\Final2020.csproj.CoreCompileInputs.cache
+C:\Users\enzoj\source\repos\Proyecto Diagramacion\Final2020\obj\Debug\net6.0\Final2020.dll
+C:\Users\enzoj\source\repos\Proyecto Diagramacion\Final2020\obj\Debug\net6.0\refint\Final2020.dll
+C:\Users\enzoj\source\repos\Proyecto Diagramacion\Final2020\obj\Debug\net6.0\Final2020.pdb
+C:\Users\enzoj\source\repos\Proyecto Diagramacion\Final2020\obj\Debug\net6.0\Final2020.genruntimeconfig.cache
+C:\Users\enzoj\source\repos\Proyecto Diagramacion\Final2020\obj\Debug\net6.0\ref\Final2020.dll

@@ -1,0 +1,15 @@
+C:\Users\enzoj\source\repos\Proyecto Diagramacion\practicaparaparcial\bin\Debug\net6.0\practicaparaparcial.exe
+C:\Users\enzoj\source\repos\Proyecto Diagramacion\practicaparaparcial\bin\Debug\net6.0\practicaparaparcial.deps.json
+C:\Users\enzoj\source\repos\Proyecto Diagramacion\practicaparaparcial\bin\Debug\net6.0\practicaparaparcial.runtimeconfig.json
+C:\Users\enzoj\source\repos\Proyecto Diagramacion\practicaparaparcial\bin\Debug\net6.0\practicaparaparcial.dll
+C:\Users\enzoj\source\repos\Proyecto Diagramacion\practicaparaparcial\bin\Debug\net6.0\practicaparaparcial.pdb
+C:\Users\enzoj\source\repos\Proyecto Diagramacion\practicaparaparcial\obj\Debug\net6.0\practicaparaparcial.csproj.AssemblyReference.cache
+C:\Users\enzoj\source\repos\Proyecto Diagramacion\practicaparaparcial\obj\Debug\net6.0\practicaparaparcial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enzoj\source\repos\Proyecto Diagramacion\practicaparaparcial\obj\Debug\net6.0\practicaparaparcial.AssemblyInfoInputs.cache
+C:\Users\enzoj\source\repos\Proyecto Diagramacion\practicaparaparcial\obj\Debug\net6.0\practicaparaparcial.AssemblyInfo.cs
+C:\Users\enzoj\source\repos\Proyecto Diagramacion\practicaparaparcial\obj\Debug\net6.0\practicaparaparcial.csproj.CoreCompileInputs.cache
+C:\Users\enzoj\source\repos\Proyecto Diagramacion\practicaparaparcial\obj\Debug\net6.0\practicaparaparcial.dll
+C:\Users\enzoj\source\repos\Proyecto Diagramacion\practicaparaparcial\obj\Debug\net6.0\refint\practicaparaparcial.dll
+C:\Users\enzoj\source\repos\Proyecto Diagramacion\practicaparaparcial\obj\Debug\net6.0\practicaparaparcial.pdb
+C:\Users\enzoj\source\repos\Proyecto Diagramacion\practicaparaparcial\obj\Debug\net6.0\practicaparaparcial.genruntimeconfig.cache
+C:\Users\enzoj\source\repos\Proyecto Diagramacion\practicaparaparcial\obj\Debug\net6.0\ref\practicaparaparcial.dll

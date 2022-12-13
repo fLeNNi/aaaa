@@ -1,0 +1,8 @@
+D:\IFTS\Paradigmas\Paradigmas2020\ProyectosDeConsola\SegundoParcial_231122_T1_TW\bin\Debug\SegundoParcial_231122_T1_TW.exe.config
+D:\IFTS\Paradigmas\Paradigmas2020\ProyectosDeConsola\SegundoParcial_231122_T1_TW\bin\Debug\SegundoParcial_231122_T1_TW.exe
+D:\IFTS\Paradigmas\Paradigmas2020\ProyectosDeConsola\SegundoParcial_231122_T1_TW\bin\Debug\SegundoParcial_231122_T1_TW.pdb
+D:\IFTS\Paradigmas\Paradigmas2020\ProyectosDeConsola\SegundoParcial_231122_T1_TW\obj\Debug\SegundoParcial_231122_T1_T2.csproj.AssemblyReference.cache
+D:\IFTS\Paradigmas\Paradigmas2020\ProyectosDeConsola\SegundoParcial_231122_T1_TW\obj\Debug\SegundoParcial_231122_T1_T2.csproj.SuggestedBindingRedirects.cache
+D:\IFTS\Paradigmas\Paradigmas2020\ProyectosDeConsola\SegundoParcial_231122_T1_TW\obj\Debug\SegundoParcial_231122_T1_T2.csproj.CoreCompileInputs.cache
+D:\IFTS\Paradigmas\Paradigmas2020\ProyectosDeConsola\SegundoParcial_231122_T1_TW\obj\Debug\SegundoParcial_231122_T1_TW.exe
+D:\IFTS\Paradigmas\Paradigmas2020\ProyectosDeConsola\SegundoParcial_231122_T1_TW\obj\Debug\SegundoParcial_231122_T1_TW.pdb
