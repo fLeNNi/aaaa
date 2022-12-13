@@ -1,0 +1,15 @@
+C:\Users\enzoj\source\repos\Proyecto Diagramacion\ej4matriz\bin\Debug\net6.0\ej4matriz.exe
+C:\Users\enzoj\source\repos\Proyecto Diagramacion\ej4matriz\bin\Debug\net6.0\ej4matriz.deps.json
+C:\Users\enzoj\source\repos\Proyecto Diagramacion\ej4matriz\bin\Debug\net6.0\ej4matriz.runtimeconfig.json
+C:\Users\enzoj\source\repos\Proyecto Diagramacion\ej4matriz\bin\Debug\net6.0\ej4matriz.dll
+C:\Users\enzoj\source\repos\Proyecto Diagramacion\ej4matriz\bin\Debug\net6.0\ej4matriz.pdb
+C:\Users\enzoj\source\repos\Proyecto Diagramacion\ej4matriz\obj\Debug\net6.0\ej4matriz.csproj.AssemblyReference.cache
+C:\Users\enzoj\source\repos\Proyecto Diagramacion\ej4matriz\obj\Debug\net6.0\ej4matriz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enzoj\source\repos\Proyecto Diagramacion\ej4matriz\obj\Debug\net6.0\ej4matriz.AssemblyInfoInputs.cache
+C:\Users\enzoj\source\repos\Proyecto Diagramacion\ej4matriz\obj\Debug\net6.0\ej4matriz.AssemblyInfo.cs
+C:\Users\enzoj\source\repos\Proyecto Diagramacion\ej4matriz\obj\Debug\net6.0\ej4matriz.csproj.CoreCompileInputs.cache
+C:\Users\enzoj\source\repos\Proyecto Diagramacion\ej4matriz\obj\Debug\net6.0\ej4matriz.dll
+C:\Users\enzoj\source\repos\Proyecto Diagramacion\ej4matriz\obj\Debug\net6.0\refint\ej4matriz.dll
+C:\Users\enzoj\source\repos\Proyecto Diagramacion\ej4matriz\obj\Debug\net6.0\ej4matriz.pdb
+C:\Users\enzoj\source\repos\Proyecto Diagramacion\ej4matriz\obj\Debug\net6.0\ej4matriz.genruntimeconfig.cache
+C:\Users\enzoj\source\repos\Proyecto Diagramacion\ej4matriz\obj\Debug\net6.0\ref\ej4matriz.dll

@@ -1,0 +1,15 @@
+C:\Users\enzoj\source\repos\Proyecto Diagramacion\Ejercicio 1 matriz\bin\Debug\net6.0\Ejercicio 1 matriz.exe
+C:\Users\enzoj\source\repos\Proyecto Diagramacion\Ejercicio 1 matriz\bin\Debug\net6.0\Ejercicio 1 matriz.deps.json
+C:\Users\enzoj\source\repos\Proyecto Diagramacion\Ejercicio 1 matriz\bin\Debug\net6.0\Ejercicio 1 matriz.runtimeconfig.json
+C:\Users\enzoj\source\repos\Proyecto Diagramacion\Ejercicio 1 matriz\bin\Debug\net6.0\Ejercicio 1 matriz.dll
+C:\Users\enzoj\source\repos\Proyecto Diagramacion\Ejercicio 1 matriz\bin\Debug\net6.0\Ejercicio 1 matriz.pdb
+C:\Users\enzoj\source\repos\Proyecto Diagramacion\Ejercicio 1 matriz\obj\Debug\net6.0\Ejercicio 1 matriz.csproj.AssemblyReference.cache
+C:\Users\enzoj\source\repos\Proyecto Diagramacion\Ejercicio 1 matriz\obj\Debug\net6.0\Ejercicio 1 matriz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enzoj\source\repos\Proyecto Diagramacion\Ejercicio 1 matriz\obj\Debug\net6.0\Ejercicio 1 matriz.AssemblyInfoInputs.cache
+C:\Users\enzoj\source\repos\Proyecto Diagramacion\Ejercicio 1 matriz\obj\Debug\net6.0\Ejercicio 1 matriz.AssemblyInfo.cs
+C:\Users\enzoj\source\repos\Proyecto Diagramacion\Ejercicio 1 matriz\obj\Debug\net6.0\Ejercicio 1 matriz.csproj.CoreCompileInputs.cache
+C:\Users\enzoj\source\repos\Proyecto Diagramacion\Ejercicio 1 matriz\obj\Debug\net6.0\Ejercicio 1 matriz.dll
+C:\Users\enzoj\source\repos\Proyecto Diagramacion\Ejercicio 1 matriz\obj\Debug\net6.0\refint\Ejercicio 1 matriz.dll
+C:\Users\enzoj\source\repos\Proyecto Diagramacion\Ejercicio 1 matriz\obj\Debug\net6.0\Ejercicio 1 matriz.pdb
+C:\Users\enzoj\source\repos\Proyecto Diagramacion\Ejercicio 1 matriz\obj\Debug\net6.0\Ejercicio 1 matriz.genruntimeconfig.cache
+C:\Users\enzoj\source\repos\Proyecto Diagramacion\Ejercicio 1 matriz\obj\Debug\net6.0\ref\Ejercicio 1 matriz.dll
